@@ -1,6 +1,8 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 BoilerPlate
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+
+- vuetify
+
 
 ## Setup
 
