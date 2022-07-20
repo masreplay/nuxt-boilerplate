@@ -2,8 +2,7 @@
 
 <template>
   <div>
-    Hello
-    <slot />
+    Component: Footer
   </div>
 </template>
 

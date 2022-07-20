@@ -2,8 +2,7 @@
 
 <template>
   <div>
-    Hello
-    <slot />
+    404!
   </div>
 </template>
 

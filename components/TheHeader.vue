@@ -2,8 +2,9 @@
 
 <template>
   <div>
-    Component: TheHeader
+    <v-alert border="bottom" elevation="9" type="success"></v-alert>
   </div>
 </template>
 
-<style scoped></style>
+<style scoped>
+</style>

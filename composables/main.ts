@@ -1,3 +1,3 @@
 export const useMain = () => {
-  return ref()
+  return ref(1)
 }

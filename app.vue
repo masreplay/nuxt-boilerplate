@@ -1,11 +1,11 @@
 <template>
   <div>
     <v-app>
+      
+      <v-container>
 
-      <v-app-bar></v-app-bar>
-
-      <NuxtPage />
+        <NuxtPage />
+      </v-container>
     </v-app>
-
   </div>
 </template>
