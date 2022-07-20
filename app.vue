@@ -9,3 +9,5 @@
     </v-app>
   </div>
 </template>
+
+<script></script>
