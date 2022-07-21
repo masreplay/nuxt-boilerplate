@@ -1,5 +1,6 @@
 <script lang="ts" setup>
 const a = useMain()
+
 const x = ref(1)
 
 function increase() {
